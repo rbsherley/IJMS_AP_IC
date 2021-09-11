@@ -16,7 +16,7 @@ summary(M2)
 # # # # # # # # 
 #     Plot    #
 # # # # # # # # 
-quartz(width=8,height=4)
+
 par(mfrow=c(1,1),mar=c(3.5, 3.5, 0.5, 0.5),mgp = c(2, 0.6, 0))#,family='serif')
 # Dassen Aggregated from Ross-Gillespie and Butterworth (2021; SWG-PEl/39rev) selected model
 # note that Ross-Gillespie and Butterworth (2021; SWG-PEl/39rev) use 2 * SE for approx. 95% CIs rather than 1.96 
@@ -67,6 +67,5 @@ points(x=4.75,y=round((0.108*-0.0194378)*100,2),pch=3,col="orange",lwd=2)
 # Robben
 points(x=5.25,y=round((0.108*-0.1140992)*100,2),pch=3,col="purple",lwd=2)
 axis(1,at=1:5,labels=c("1.RGB,A,Y","2.RGB,D,YI","3.D,YM","4.D,YI","Raw means"),cex.axis=1)
-quartz.save(file="CC_compare.pdf",type="pdf")
-dev.off()
+
 #EOF

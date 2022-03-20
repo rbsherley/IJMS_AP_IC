@@ -22,4 +22,4 @@ Sherley, R. B., Winker, H., Altwegg, R., van der Lingen, C. D., Votier, S. C., a
 
 Sherley, R. B., Barham, B. J., Barham, P. J., Campbell, K. J., Crawford, R. J. M., Grigg, J., Horswill, C., McInnes, A., Morris, T. L., Pichegru, L., Steinfurth, A., Weller, F., Winker, H., and Votier, S. C. 2018. Bayesian inference reveals positive but subtle effects of experimental fishery closures on marine predator demographics. Proceedings of the Royal Society B-Biological Sciences, 285: 20172443.
 
-Sydeman, W. J., Hunt, G. L., Pikitch, E. K., Parrish, J. K., Piatt, J. F., Boersma, P. D., Kaufman, L., Anderson, D. W., Thompson, S. A., and Sherley, R. B. 2021. South Africa’s fisheries closures and recovery of the endangered African penguin. ICES Journal of Marine Science, fsab231, https://doi.org/10.1093/icesjms/fsab231.
+Sydeman, W. J., Hunt, G. L., Pikitch, E. K., Parrish, J. K., Piatt, J. F., Boersma, P. D., Kaufman, L., Anderson, D. W., Thompson, S. A., and Sherley, R. B. 2021. South Africa’s fisheries closures and recovery of the endangered African penguin. ICES Journal of Marine Science, 78: 3538–3543. https://doi.org/10.1093/icesjms/fsab231.
